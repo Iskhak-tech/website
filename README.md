@@ -1,7 +1,7 @@
-<!DOCTYPE html>
 <html>
   <head>
-    <title> oh yeah </title>
+    <title>oh yeah</title>
+    <meat charset="utf-8">
   </head>
 
   <body>
