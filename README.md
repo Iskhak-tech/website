@@ -1,4 +1,3 @@
-<DOCTYPE! HTML>
 <html>
   <body>
     <h1> Eminem - Without me </h1>
