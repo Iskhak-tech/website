@@ -3,7 +3,7 @@
     <meta charset="utf-8">
     <meta name="keyword" content="Eminem - Without me, Eminem, Withouth me, songs">
     <meta name="description" content="My website">
-    <link rel="shortcut icon" href="https://www.w3schools.com"/>
+    <link rel="shortcut icon" href="https://atom.io/favicon.ico"/>
   </head>
 
   <body>
