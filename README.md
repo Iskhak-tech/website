@@ -1,7 +1,9 @@
 <html>
   <head>
     <title>oh yeah</title>
-    <meat charset="utf-8">
+    <meta charset="utf-8">
+    <meta name="keyword" content="Eminem - Without me, Eminem, Withouth me, songs">
+    <meta name="description" content="My website">
   </head>
 
   <body>
