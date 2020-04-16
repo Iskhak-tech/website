@@ -11,6 +11,6 @@
     <br>
     <a href="https://www.youtube.com/watch?v=4jYYHaTwWvY" target="_blank"> link to another youtube video</a>
     <p id="ideveloper"> a page on this website </p>
-    <a href="#ideveloper"></a>
+    <a href="#ideveloper"> A page on this website </a>
   </body>
 </html>
